@@ -1,0 +1,147 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="WebCatalog.master.cs" Inherits="master_WebCatalog" %>
+
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en" dir="ltr"><!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+		<title>Content page - Canada.ca</title>
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<!-- Meta data -->
+		<meta name="description" content="Web Experience Toolkit (WET) includes reusable components for building and maintaining innovative Web sites that are accessible, usable, and interoperable. These reusable components are open source software and free for use by departments and external Web communities">
+		<!-- Meta data-->
+		<!-- Load closure template scripts -->
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_26/cdts/compiled/soyutils.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_26/cdts/compiled/wet-en.js"></script>
+		<noscript>
+			<!-- Write closure fall-back static file -->
+			<!-- /ROOT/etc/designs/canada/cdts/gcweb/v4_0_26/cdts/static/refTop.html -->
+			[an error occurred while processing this directive]
+		</noscript>
+		<!-- Write closure template -->
+		<script type="text/javascript">
+		    document.write(wet.builder.refTop({
+		    }));
+		</script>
+
+<!-- CustomCSSStart -->
+<link href="../master/dist/cust-virtua.css" rel="stylesheet" />
+<!-- CustomCSSEnd -->
+
+	</head>
+
+
+<body vocab="http://schema.org/" typeof="WebPage">
+		<div id="def-top">
+			<!-- Write closure fall-back static file -->
+			<!-- /ROOT/etc/designs/canada/cdts/gcweb/v4_0_26/cdts/static/top-en.html -->
+			[an error occurred while processing this directive]
+		</div>
+		<!-- Write closure template -->
+		<script type="text/javascript">
+		    var defTop = document.getElementById("def-top");
+		    defTop.outerHTML = wet.builder.top({
+		        lngLinks: [{
+		            lang: "fr",
+		            href: "breadcrumbs-fr.shtml",
+		            text: "Français"
+		 
+		        }]
+		    });
+		</script>
+
+<main role="main" property="mainContentOfPage" class="container">
+
+
+<h1 property="name" id="wb-cont">Publication Catalogue</h1>
+
+
+        <div id="wb-core">
+            <div id="wb-core-in" class="equalize">
+                <div id="wb-main" role="main">
+                    <div id="wb-main-in">
+
+<!-- An unused 'breakcrumb' trail from a prevous version of WET but now deprecated -->
+<asp:ContentPlaceHolder ID="breadcrumbs" runat="server" Visible="false" />
+
+
+                        <!-- MainContentStart -->
+                        xx
+                        <form id="form1" runat="server">
+                        <div>
+                            <asp:Literal ID="ModuleWelcome" runat="server"></asp:Literal>
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                        </form>
+                        <!-- MainContentEnd -->
+                        &nbsp;V 5.0.5 © <%= DateTime.Now.Year.ToString() %>
+                    </div>
+                </div>
+                </main>
+
+				<nav class="wb-sec col-md-3 col-md-pull-9" typeof="SiteNavigationElement" id="wb-sec" role="navigation">
+					<!-- Write closure fall-back static file -->
+					<!-- /ROOT/etc/designs/canada/cdts/gcweb/v4_0_26/cdts/static/secMenu-en.html -->
+					[an error occurred while processing this directive]
+				</nav>
+				<!-- Write closure template -->
+				<script type="text/javascript">
+				    var secondarymenu = document.getElementById("wb-sec");
+				    secondarymenu.innerHTML = wet.builder.secmenu({
+				        sections: [{
+
+				            // Rinse and repeat
+				            sectionName: "Publication Catalog",
+				            menuLinks: [{
+				                href: "#",
+				                text: "Search"
+				            }, {
+				                href: "#",
+				                text: "Advanced Search"
+				            }, {
+				                href: "#",
+				                text: "Cart"
+				            }, {
+				                href: "#",
+				                text: "Shipping Details"
+				            }]
+				        }]
+				    });
+				</script>
+			</div>
+		</div>
+		<div id="def-footer">
+			<!-- Write closure fall-back static file -->
+			<!-- /ROOT/etc/designs/canada/cdts/gcweb/v4_0_26/cdts/static/footer-en.html -->
+			[an error occurred while processing this directive]
+		</div>
+		<!-- Write closure template -->
+		<script type="text/javascript">
+		    var defFooter = document.getElementById("def-footer");
+		    defFooter.outerHTML = wet.builder.footer({
+		    });
+		</script>
+		<!-- Write closure template -->
+		<script type="text/javascript">
+		    document.write(wet.builder.refFooter({
+		    }));
+		</script>
+    <!-- ScriptsStart -->
+    <script src="../master/dist/js/settings.js"></script>
+    <!--[if lte IE 8]>
+<script src="../master/dist/theme-gcwu-fegc/js/theme-ie-min.js"></script>
+<script src="../master/dist/js/pe-ap-ie-min.js"></script>
+<script src="../master/dist/js/jquerymobile/jquery.mobile-ie.min.js"></script>
+<![endif]-->
+    <!--[if gt IE 8]><!-->
+    <script src="../master/dist/theme-gcwu-fegc/js/theme-min.js"></script>
+    <script src="../master/dist/js/pe-ap-min.js"></script>
+    <script src="../master/dist/js/jquerymobile/jquery.mobile.min.js"></script>
+    <!--<![endif]-->
+    <!-- ScriptsEnd -->
+    <!-- CustomScriptsStart -->
+    <!-- CustomScriptsEnd -->
+</body>
+</html>

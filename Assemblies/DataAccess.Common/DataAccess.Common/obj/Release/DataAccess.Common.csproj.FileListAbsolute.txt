@@ -1,0 +1,5 @@
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Common\DataAccess.Common\bin\Release\DataAccess.Common.dll
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Common\DataAccess.Common\bin\Release\DataAccess.Common.pdb
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Common\DataAccess.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Common\DataAccess.Common\obj\Release\DataAccess.Common.dll
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Common\DataAccess.Common\obj\Release\DataAccess.Common.pdb

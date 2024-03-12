@@ -1,0 +1,2 @@
+﻿<%@ control language="C#" autoeventwireup="false" inherits="BreadCrumb, App_Web_q2zud04z" targetschema="http://schemas.microsoft.com/intellisense/nav4-0" %>
+<asp:Label id="lblTrail" runat="server"></asp:Label>

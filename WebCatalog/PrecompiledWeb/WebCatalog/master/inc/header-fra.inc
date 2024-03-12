@@ -1,0 +1,86 @@
+﻿<nav role="navigation">
+  <div id="gcwu-gcnb">
+    <h2>Barre de navigation du gouvernement du Canada</h2>
+    <div id="gcwu-gcnb-in">
+      <div id="gcwu-gcnb-fip">
+        <div id="gcwu-sig">
+          <div id="gcwu-sig-in">
+            <img src="../master/dist/theme-gcwu-fegc/images/sig-fra.png" alt="Gouvernement du Canada" />
+          </div>
+        </div>
+        <ul>
+          <li id="gcwu-gcnb1">
+            <a rel="external" target="_blank" href="http://www.canada.ca/fr/index.html">Canada.ca</a>
+          </li>
+          <li id="gcwu-gcnb2">
+            <a rel="external" target="_blank" href="http://www.servicecanada.gc.ca/fra/accueil.shtml">Services</a>
+          </li>
+          <li id="gcwu-gcnb3">
+            <a rel="external" target="_blank" href="http://www.canada.ca/fr/gouv/min/index.html">Ministères</a>
+          </li>
+          <li id="gcwu-gcnb-lang">
+            <asp:HyperLink ID="hplLanguageSwitch2" runat="server" NavigateUrl="~/common/language.aspx?l=E">English</asp:HyperLink>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div id="gcwu-bnr" role="banner">
+  <div id="gcwu-bnr-in">
+    <div id="gcwu-wmms">
+      <div id="gcwu-wmms-in">
+        <object data="dist/theme-gcwu-fegc/images/wmms.svg" role="img" tabindex="-1" aria-label="Symbol of the Government of Canada" type="image/svg+xml">
+          <img src="../master/dist/theme-gcwu-fegc/images/wmms.png" alt="Symbol of the Government of Canada" />
+        </object>
+      </div>
+    </div>
+    <div id="gcwu-title">
+      <p id="gcwu-title-in">
+        <a target="_blank" href="http://www.aadnc-aandc.gc.ca/fra/1100100010002/1100100010021">Affaires autochtones et du Nord Canada</a>
+      </p>
+    </div>
+    <section role="search">
+      <div id="gcwu-srchbx">
+        <h2>Recherche</h2>
+        <form method="get" action="http://recherche-search.gc.ca/rGs/s_r" >
+          <div id="gcwu-srchbx-in">
+            <input type="hidden" name="st" value="s" />
+            <input type="hidden" name="num" value="10" />
+            <input type="hidden" name="s5bm3ts21rch" value="x" />
+            <input type="hidden" name="st1rt" value="0" />
+            <input type="hidden" name="langs" value="fra" />
+            <input type="hidden" name="cdn" value="canada" />
+            <label for="gcwu-srch">Recherchez le site Web</label>
+            <input id="gcwu-srch" name="q" type="search" value="" size="27" maxlength="150" />
+            <input id="gcwu-srch-submit" name="gcwu-srch-submit" type="submit" value="Recherche" data-icon="search" />
+          </div>
+        </form>
+      </div>
+    </section>
+  </div>
+</div>
+
+<nav role="navigation">
+  <div id="gcwu-psnb">
+    <h2>
+      Menu du site
+    </h2>
+    <div id="gcwu-psnb-in">
+      <div class="wet-boew-menubar mb-mega">
+        <div>
+          <ul class="mb-menu">
+            <li>
+              <div>
+                <a target="_blank" href="http://www.aadnc-aandc.gc.ca/fra/1100100010002/1100100010021">
+                  <abbr title="Affaires autochtones et du Nord Canada">AANC</abbr> - Accueil
+                </a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

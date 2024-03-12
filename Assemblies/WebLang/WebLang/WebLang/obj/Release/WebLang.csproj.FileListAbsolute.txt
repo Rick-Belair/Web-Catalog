@@ -1,0 +1,7 @@
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\WebLang\WebLang\WebLang\bin\Release\WebLang.dll
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\WebLang\WebLang\WebLang\bin\Release\WebLang.pdb
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\WebLang\WebLang\WebLang\bin\Release\DataAccess.Helper.dll
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\WebLang\WebLang\WebLang\bin\Release\DataAccess.Helper.pdb
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\WebLang\WebLang\WebLang\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\WebLang\WebLang\WebLang\obj\Release\WebLang.dll
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\WebLang\WebLang\WebLang\obj\Release\WebLang.pdb

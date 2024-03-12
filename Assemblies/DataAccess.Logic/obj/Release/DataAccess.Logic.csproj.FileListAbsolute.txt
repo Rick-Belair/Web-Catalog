@@ -1,0 +1,7 @@
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Logic\bin\Release\DataAccess.Logic.dll
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Logic\bin\Release\DataAccess.Logic.pdb
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Logic\bin\Release\DataAccess.Helper.dll
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Logic\bin\Release\DataAccess.Helper.pdb
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Logic\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Logic\obj\Release\DataAccess.Logic.dll
+C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Logic\obj\Release\DataAccess.Logic.pdb

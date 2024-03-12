@@ -1,0 +1,107 @@
+﻿
+<body vocab="http://schema.org/" typeof="WebPage" resource="#wb-webpage">
+
+    <div class="newpar new section">
+
+    </div>
+
+    <%
+    if ("F" == Session["Language"].ToString())
+    {
+    %>
+       <!--#include file="inc/banner-wet4-fr.inc" -->
+    <%
+    }
+    else
+    {
+    %>
+       <!--#include file="inc/banner-wet4-en.inc" -->
+    <%
+    }
+    %>
+
+    <hr />
+    <div class="container">
+        <div class="row">
+            <main role="main" property="mainContentOfPage" class="col-md-9 col-md-push-3">
+                <h1 property="name" id="wb-cont"><%=oLang.GetLabel("PublicationsCatalog")%></h1>
+                <asp:ContentPlaceHolder ID="breadcrumbs" runat="server" Visible="false" />
+                <!-- MainContentStart -->
+                <!-- Write closure template -->
+                <%
+                    if ("F" == Session["Language"].ToString())
+                    {
+                %>
+                <!--#include file="inc/menu-noscript-wet4-fr.inc" -->
+                <%
+                    }
+                    else
+                    {
+                %>
+                <!--#include file="inc/menu-noscript-wet4-en.inc" -->
+                <%
+                    }
+                %>
+        
+
+                <form id="form1" runat="server">
+                <div>
+                    <asp:Literal ID="ModuleWelcome" runat="server"></asp:Literal>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                </form>
+
+                <br />
+                <br />
+                <small>
+                &nbsp;V 5.2.1 &copy;2023
+                </small>
+            </main>
+
+
+            <nav class="wb-sec col-md-3 col-md-pull-9" typeof="SiteNavigationElement" id="wb-sec" role="navigation">
+				<!-- Write closure fall-back static file -->
+				<!-- /ROOT/etc/designs/canada/cdts/gcweb/v4_0_26/cdts/static/secMenu-en.html -->
+			</nav>
+				<!-- Write closure template -->
+            <%
+                if ("F" == Session["Language"].ToString())
+                {
+            %>
+            <!--#include file="inc/menu-wet4-fr.inc" -->
+            <%
+                }
+                else
+                {
+            %>
+            <!--#include file="inc/menu-wet4-en.inc" -->
+            <%
+                }
+            %>
+
+        </div>
+	</div>
+
+    <%
+    if ("F" == Session["Language"].ToString())
+    {
+    %>
+       <!--#include file="inc/footer-wet4-fr.inc" -->
+    <%
+    }
+    else
+    {
+    %>
+       <!--#include file="inc/footer-wet4-en.inc" -->
+    <%
+    }
+    %>
+
+    <script type="text/javascript">        _satellite.pageBottom();</script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="../master/dist/canada_components/ep-pp.min.js"></script>
+    <script src="../master/dist/canada_components/wet-boew.min.js"></script>
+    <script src="../master/dist/canada_components/theme.min.js"></script>
+</body>
+</html>
