@@ -1,5 +1,0 @@
-C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Helper\DataAccess.Helper\bin\Release\DataAccess.Helper.dll
-C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Helper\DataAccess.Helper\bin\Release\DataAccess.Helper.pdb
-C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Helper\DataAccess.Helper\obj\Release\ResolveAssemblyReference.cache
-C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Helper\DataAccess.Helper\obj\Release\DataAccess.Helper.dll
-C:\Projects\AANDC\WebCatalog.net\Web Catalog\Assemblies\DataAccess.Helper\DataAccess.Helper\obj\Release\DataAccess.Helper.pdb

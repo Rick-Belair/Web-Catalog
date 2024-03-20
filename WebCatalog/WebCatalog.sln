@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebCatalog", "WebCatalog", "{E045B572-57A2-4273-8B68-E4DA0BD37BAE}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebCatalog", "WebCatalog\", "{E045B572-57A2-4273-8B68-E4DA0BD37BAE}"
 	ProjectSection(WebsiteProperties) = preProject
 		SccProjectName = "SAK"
 		SccAuxPath = "SAK"
@@ -42,36 +44,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.Logic", "..\Asse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Workflows", "..\Assemblies\Business.Workflows\Business.Workflows.csproj", "{41A674FC-80A2-4362-A0E7-C229FD2A92D9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31713B53-5359-4CE1-9450-0462A17E141A}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+	EndProjectSection
+EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 8
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://ntv-tfs2010:8080/tfs/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = ..\\Assemblies\\Business.Entities\\Business.Entities.csproj
-		SccProjectName1 = ../Assemblies/Business.Entities
-		SccLocalPath1 = ..\\Assemblies\\Business.Entities
-		SccProjectUniqueName2 = ..\\Assemblies\\Business.Workflows\\Business.Workflows.csproj
-		SccProjectName2 = ../Assemblies/Business.Workflows
-		SccLocalPath2 = ..\\Assemblies\\Business.Workflows
-		SccProjectUniqueName3 = ..\\Assemblies\\DataAccess.Common\\DataAccess.Common\\DataAccess.Common.csproj
-		SccProjectName3 = ../Assemblies/DataAccess.Common/DataAccess.Common
-		SccLocalPath3 = ..\\Assemblies\\DataAccess.Common\\DataAccess.Common
-		SccProjectUniqueName4 = ..\\Assemblies\\DataAccess.Helper\\DataAccess.Helper\\DataAccess.Helper.csproj
-		SccProjectName4 = ../Assemblies/DataAccess.Helper/DataAccess.Helper
-		SccLocalPath4 = ..\\Assemblies\\DataAccess.Helper\\DataAccess.Helper
-		SccProjectUniqueName5 = ..\\Assemblies\\DataAccess.Logic\\DataAccess.Logic.csproj
-		SccProjectName5 = ../Assemblies/DataAccess.Logic
-		SccLocalPath5 = ..\\Assemblies\\DataAccess.Logic
-		SccProjectUniqueName6 = ..\\Assemblies\\WebLang\\WebLang\\WebLang\\WebLang.csproj
-		SccProjectName6 = ../Assemblies/WebLang/WebLang/WebLang
-		SccLocalPath6 = ..\\Assemblies\\WebLang\\WebLang\\WebLang
-		SccWebProject7 = true
-		SccProjectUniqueName7 = WebCatalog
-		SccProjectName7 = WebCatalog
-		SccLocalPath7 = WebCatalog
-		SccProjectEnlistmentChoice7 = 2
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -108,5 +86,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EAA87C1-C1F9-4DCC-B237-29FBD6CCA483}
 	EndGlobalSection
 EndGlobal
