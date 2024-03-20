@@ -432,7 +432,7 @@ namespace CallBaseCRM.Business.Workflows
         {
             string returnValue;
 
-            returnValue = "http://www.google.ca";
+            returnValue = "https://www.google.ca";
             // Calculate the number of items alredy committed
             //DataSet ds = dataService.GetProductRecord(productCode);
             //DataRow dr = ds.Tables[0].Rows[0];

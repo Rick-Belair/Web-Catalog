@@ -107,7 +107,7 @@
                  <asp:TemplateField HeaderText="Code">
                     <ItemTemplate>
                     <asp:HiddenField ID="hidItem" runat="server" />
-                    <asp:HyperLink ID="hplCode" runat="server" CssClass="wb-icon-info" NavigateUrl="http:\\www.msn.com" ></asp:HyperLink>
+                    <asp:HyperLink ID="hplCode" runat="server" CssClass="wb-icon-info" NavigateUrl="https:\\www.msn.com" ></asp:HyperLink>
                     </ItemTemplate>
                     <ItemStyle HorizontalAlign="Center"  />
                 </asp:TemplateField>
