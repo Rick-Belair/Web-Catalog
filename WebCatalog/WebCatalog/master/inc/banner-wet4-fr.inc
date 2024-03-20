@@ -77,7 +77,7 @@
                   <a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Emplois et milieu de travail</a>
                 </li>
                 <li role="presentation">
-                  <a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration et citoyenneté</a>
+                  <a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration et citoyennet&eacute;</a>
                 </li>
                 <li role="presentation">
                   <a role="menuitem" tabindex="-1" href="https://voyage.gc.ca/">Voyage et tourisme</a>
@@ -89,16 +89,16 @@
                   <a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Prestations</a>
                 </li>
                 <li role="presentation">
-                  <a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/sante.html">Santé;</a>
+                  <a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/sante.html">Sant&eacute;</a>
                 </li>
                 <li role="presentation">
-                  <a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/impots.html">Impôts</a>
+                  <a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/impots.html">Imp&ocirc;ts</a>
                 </li>
                 <li role="presentation">
                   <a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a>
                 </li>
                 <li role="presentation">
-                  <a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a>
+                  <a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/defense.html">S&eacute;curit&eacute; nationale et d&eacute;fense</a>
                 </li>
                 <li role="presentation">
                   <a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a>
