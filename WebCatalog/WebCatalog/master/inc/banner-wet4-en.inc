@@ -31,8 +31,8 @@
           </section>
 
           <div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" resource="#wb-publisher" typeof="GovernmentOrganization">
-            <a href="http://www.canada.ca/en.html" property="url">
-              <img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="Government of Canada" property="logo"/>
+            <a href="https://www.canada.ca/en.html" property="url">
+              <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="Government of Canada" property="logo"/>
               <span class="wb-inv">
                 /
                 <span lang="fr">Gouvernement du Canada</span>
@@ -40,12 +40,12 @@
             </a>
             <meta property="name" content="Government of Canada"/>
             <meta property="areaServed" typeof="Country" content="Canada"/>
-            <link property="logo" href="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg"/>
+            <link property="logo" href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg"/>
           </div>
 
           <section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
             <h2>Search</h2>
-            <form action="http://www.canada.ca/en/sr/srb.html" method="get" name="cse-search-box" role="search">
+            <form action="https://www.canada.ca/en/sr/srb.html" method="get" name="cse-search-box" role="search">
               <div class="form-group wb-srch-qry">
                 <label for="wb-srch-q" class="wb-inv">Search Canada.ca</label>
                 <input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Search Canada.ca"/>
@@ -110,7 +110,7 @@
                 <a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a>
               </li>
               <li role="presentation">
-                <a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a>
+                <a role="menuitem" tabindex="-1" href="https://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a>
               </li>
               <li role="presentation">
                 <a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a>
@@ -131,10 +131,10 @@
       <div class="row">
         <ol class="breadcrumb">
           <li>
-            <a href="http://canada.ca/en/index.html">Home</a>
+            <a href="https://canada.ca/en/index.html">Home</a>
           </li>
           <li>
-            <a href="http://www.aadnc-aandc.gc.ca/eng/">INAC</a>
+            <a href="https://www.aadnc-aandc.gc.ca/eng/">INAC</a>
           </li>
         </ol>
       </div>

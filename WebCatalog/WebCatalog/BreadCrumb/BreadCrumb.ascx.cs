@@ -193,14 +193,14 @@ public partial class BreadCrumb : System.Web.UI.UserControl
         if ((_pageCrumb.Level == 1))// || (_pageCrumb.Level == 2))
         {
             _crumbList.Clear();
-            _crumbList.Add(Convert.ToInt16(1), new PageCrumb(1, "http://www.aadnc-aandc.gc.ca/", homeName));
+            _crumbList.Add(Convert.ToInt16(1), new PageCrumb(1, "https://www.aadnc-aandc.gc.ca/", homeName));
         }
         else
         {
             //If nothing in the list adds the home link first
             if (_crumbList.Count == 0)
             {
-                _crumbList.Add(Convert.ToInt16(1), new PageCrumb(1, "http://www.aadnc-aandc.gc.ca/", homeName));
+                _crumbList.Add(Convert.ToInt16(1), new PageCrumb(1, "https://www.aadnc-aandc.gc.ca/", homeName));
             }
             //Now add the present list also no other check is required here as we have cleaned up the 
             //List at the start of the function
