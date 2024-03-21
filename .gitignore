@@ -404,3 +404,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 WebCatalog/.vs/WebCatalog/v16/.suo
+/WebCatalog/WebCatalog/Bin
+/WebCatalog/WebCatalog/Bin
