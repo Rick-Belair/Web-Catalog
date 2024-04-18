@@ -8,13 +8,13 @@
           <h3>Gouvernement du Canada</h3>
           <ul class="list-unstyled colcount-sm-2 colcount-md-3">
             <li>
-              <a href="http://www.canada.ca/fr/contact.html">Toutes les coordonnées</a>
+              <a href="https://www.canada.ca/fr/contact.html">Toutes les coordonnées</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a>
+              <a href="https://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/gouvernement/systeme.html">À propos du gouvernement</a>
+              <a href="https://www.canada.ca/fr/gouvernement/systeme.html">À propos du gouvernement</a>
             </li>
           </ul>
           <h4>
@@ -22,58 +22,58 @@
           </h4>
           <ul class="list-unstyled colcount-sm-2 colcount-md-3">
             <li>
-              <a href="http://www.canada.ca/fr/services/emplois.html">Emplois</a>
+              <a href="https://www.canada.ca/fr/services/emplois.html">Emplois</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a>
+              <a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a>
             </li>
             <li>
               <a href="https://voyage.gc.ca/">Voyage et tourisme</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/entreprises.html">Entreprises</a>
+              <a href="https://www.canada.ca/fr/services/entreprises.html">Entreprises</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/prestations.html">Prestations</a>
+              <a href="https://www.canada.ca/fr/services/prestations.html">Prestations</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/sante.html">Santé</a>
+              <a href="https://www.canada.ca/fr/services/sante.html">Santé</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/impots.html">Impôts</a>
+              <a href="https://www.canada.ca/fr/services/impots.html">Impôts</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a>
+              <a href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a>
+              <a href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a>
+              <a href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a>
+              <a href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a>
+              <a href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a>
             </li>
             <li>
               <a href="https://www.international.gc.ca/world-monde/index.aspx?lang=fra">Le Canada et le monde</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/finance.html">Argent et finance</a>
+              <a href="https://www.canada.ca/fr/services/finance.html">Argent et finance</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/science.html">Science et innovation</a>
+              <a href="https://www.canada.ca/fr/services/science.html">Science et innovation</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/autochtones.html">Autochtones</a>
+              <a href="https://www.canada.ca/fr/services/autochtones.html">Autochtones</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/veterans.html">Vétérans et militaires</a>
+              <a href="https://www.canada.ca/fr/services/veterans.html">Vétérans et militaires</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/services/jeunesse.html">Jeunesse</a>
+              <a href="https://www.canada.ca/fr/services/jeunesse.html">Jeunesse</a>
             </li>
           </ul>
         </nav>
@@ -96,15 +96,15 @@
             </li>
 
             <li>
-              <a href="http://www.canada.ca/fr/transparence/avis.html">Avis</a>
+              <a href="https://www.canada.ca/fr/transparence/avis.html">Avis</a>
             </li>
             <li>
-              <a href="http://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a>
+              <a href="https://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a>
             </li>
           </ul>
         </nav>
         <div class="wtrmrk align-self-end">
-          <img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada"/>
+          <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada"/>
         </div>
       </div>
     </div>

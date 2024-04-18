@@ -10,13 +10,13 @@
         </div>
         <ul>
           <li id="gcwu-gcnb1">
-            <a rel="external" target="_blank" href="http://www.canada.ca/fr/index.html">Canada.ca</a>
+            <a rel="external" target="_blank" href="https://www.canada.ca/fr/index.html">Canada.ca</a>
           </li>
           <li id="gcwu-gcnb2">
-            <a rel="external" target="_blank" href="http://www.servicecanada.gc.ca/fra/accueil.shtml">Services</a>
+            <a rel="external" target="_blank" href="https://www.servicecanada.gc.ca/fra/accueil.shtml">Services</a>
           </li>
           <li id="gcwu-gcnb3">
-            <a rel="external" target="_blank" href="http://www.canada.ca/fr/gouv/min/index.html">Ministères</a>
+            <a rel="external" target="_blank" href="https://www.canada.ca/fr/gouv/min/index.html">Ministères</a>
           </li>
           <li id="gcwu-gcnb-lang">
             <asp:HyperLink ID="hplLanguageSwitch2" runat="server" NavigateUrl="~/common/language.aspx?l=E">English</asp:HyperLink>
@@ -38,13 +38,13 @@
     </div>
     <div id="gcwu-title">
       <p id="gcwu-title-in">
-        <a target="_blank" href="http://www.aadnc-aandc.gc.ca/fra/1100100010002/1100100010021">Affaires autochtones et du Nord Canada</a>
+        <a target="_blank" href="https://www.aadnc-aandc.gc.ca/fra/1100100010002/1100100010021">Affaires autochtones et du Nord Canada</a>
       </p>
     </div>
     <section role="search">
       <div id="gcwu-srchbx">
         <h2>Recherche</h2>
-        <form method="get" action="http://recherche-search.gc.ca/rGs/s_r" >
+        <form method="get" action="https://recherche-search.gc.ca/rGs/s_r" >
           <div id="gcwu-srchbx-in">
             <input type="hidden" name="st" value="s" />
             <input type="hidden" name="num" value="10" />
@@ -73,7 +73,7 @@
           <ul class="mb-menu">
             <li>
               <div>
-                <a target="_blank" href="http://www.aadnc-aandc.gc.ca/fra/1100100010002/1100100010021">
+                <a target="_blank" href="https://www.aadnc-aandc.gc.ca/fra/1100100010002/1100100010021">
                   <abbr title="Affaires autochtones et du Nord Canada">AANC</abbr> - Accueil
                 </a>
               </div>

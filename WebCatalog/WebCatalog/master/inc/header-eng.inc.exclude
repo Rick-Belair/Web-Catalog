@@ -10,13 +10,13 @@
         </div>
         <ul>
           <li id="gcwu-gcnb1">
-            <a target="_blank" rel="external" href="http://www.canada.ca/en/index.html">Canada.ca</a>
+            <a target="_blank" rel="external" href="https://www.canada.ca/en/index.html">Canada.ca</a>
           </li>
           <li id="gcwu-gcnb2">
-            <a target="_blank" rel="external" href="http://www.servicecanada.gc.ca/eng/home.shtml">Services</a>
+            <a target="_blank" rel="external" href="https://www.servicecanada.gc.ca/eng/home.shtml">Services</a>
           </li>
           <li id="gcwu-gcnb3">
-            <a target="_blank" rel="external" href="http://www.canada.ca/en/gov/dept/index.html">Departments</a>
+            <a target="_blank" rel="external" href="https://www.canada.ca/en/gov/dept/index.html">Departments</a>
           </li>
           <li id="gcwu-gcnb-lang">
             <asp:HyperLink ID="hplLanguageSwitch" runat="server" NavigateUrl="~/common/language.aspx?l=F">Fran&ccedil;ais</asp:HyperLink>
@@ -38,13 +38,13 @@
     </div>
     <div id="gcwu-title">
       <p id="gcwu-title-in">
-        <a target="_blank" href="http://www.aadnc-aandc.gc.ca/eng/1100100010002/1100100010021">Indigenous and Northern Affairs Canada</a>
+        <a target="_blank" href="https://www.aadnc-aandc.gc.ca/eng/1100100010002/1100100010021">Indigenous and Northern Affairs Canada</a>
       </p>
     </div>
     <section role="search">
       <div id="gcwu-srchbx">
         <h2>Search</h2>
-        <form method="get" action="http://search-recherche.gc.ca/rGs/s_r" >
+        <form method="get" action="https://search-recherche.gc.ca/rGs/s_r" >
           <div id="gcwu-srchbx-in">
             <input type="hidden" name="st" value="s" />
             <input type="hidden" name="num" value="10" />
@@ -73,7 +73,7 @@
           <ul class="mb-menu">
             <li>
               <div>
-                <a target="_blank" href="http://www.aadnc-aandc.gc.ca/eng/1100100010002/1100100010021">
+                <a target="_blank" href="https://www.aadnc-aandc.gc.ca/eng/1100100010002/1100100010021">
                   <abbr title="Indigenous and Northern Affairs Canada">INAC</abbr> Home
                 </a>
               </div>
